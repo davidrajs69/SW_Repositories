@@ -1,5 +1,5 @@
 const cacheName = 'SWCache';
-const cachedAssets = ['index.html','/lcc/1603354169000/LightningContainer/client.js'];
+const cachedAssets = ['index.html','client.js'];
 
 //Install Service Worker
 self.addEventListener('install', (e) => {
